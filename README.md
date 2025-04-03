@@ -1,4 +1,4 @@
-# DevOps
+# DevOps - Notes and Cheatsheets on the Tools
 **Docker**
 - Archtecture of Docker and Persistence Managing within Containers
 - Docker for Full Stack Developer
